@@ -18,5 +18,5 @@
 
 ### Sobre mim:
 
-Jovem apaixonado em aprender coisas novas e fissurado por front end, atualmente cursando Sistemas de informação na Unemat-SNP...
+Jovem apaixonado em aprender coisas novas e tecnologia, atualmente cursando Sistemas de informação na Unemat-SNP...
 
