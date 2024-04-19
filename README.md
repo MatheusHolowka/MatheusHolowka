@@ -20,5 +20,3 @@
 
 Jovem apaixonado em aprender coisas novas e fissurado por front end, atualmente cursando Sistemas de informação na Unemat-SNP...
 
-### Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priv.matheus21/)
