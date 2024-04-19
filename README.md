@@ -15,6 +15,7 @@
     <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
 <br>
+
 ### Sobre mim:
 
 Jovem apaixonado em aprender coisas novas e fissurado por front end, atualmente cursando Sistemas de informação na Unemat-SNP...
