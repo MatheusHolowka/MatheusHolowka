@@ -16,7 +16,6 @@
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHolowka&hide_progress=true)
 
 ### Sobre mim:
 
